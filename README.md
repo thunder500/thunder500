@@ -4,7 +4,11 @@
 </picture>
 <br>
 
-Hi, I'm Ralph. I'm a full-stack developer from the Philippines building AI agents, GoHighLevel automations and web apps for clients. I build most of it with AI, mostly Claude Code, and ship it in small pieces.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+<img alt="Hi, I'm Ralph. I'm a full-stack developer from the Philippines building AI agents, GoHighLevel automations and web apps for clients. I build most of it with AI, mostly Claude Code, and ship it in small pieces." src="assets/intro-light.svg" width="100%">
+</picture>
+<br>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/talker-dark.svg">
