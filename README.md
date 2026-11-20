@@ -6,7 +6,7 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-<img alt="Hi, I'm Ralph. I'm a full-stack developer from the Philippines building AI agents, GoHighLevel automations and web apps for clients. I build most of it with AI, mostly Claude Code, and ship it in small pieces." src="assets/intro-light.svg" width="100%">
+<img alt="Hi, I'm Ralph. Software Engineer and BSIT graduate from the Philippines. I build AI agents, GoHighLevel automations and web apps with clean, scalable structure. Mostly built with Claude Code, shipped in small pieces." src="assets/intro-light.svg" width="100%">
 </picture>
 <br>
 
