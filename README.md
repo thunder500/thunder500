@@ -8,7 +8,7 @@ Hi, I'm Ralph. I'm a full-stack developer from the Philippines building AI agent
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/talker-dark.svg">
-<img alt="A cartoon of Ralph waving and talking in a pixel speech bubble: Hey, I'm Ralph. The cartoon one. I build AI agents, GHL automations and full-stack apps. Mostly with Claude Code, shipped in small pieces. Thanks for stopping by. Scroll down and say hi!" src="assets/talker-light.svg" width="100%">
+<img alt="A cartoon of Ralph waving and talking in a pixel speech bubble: Hi, I'm Ralph Benitez. The cartoon one. I build AI agents and GoHighLevel (GHL) systems for businesses. I design structured automation workflows built around how your company runs. Less manual work. Faster follow-ups. Cleaner operations. Ready to automate? Scroll down to connect." src="assets/talker-light.svg" width="100%">
 </picture>
 <br>
 
