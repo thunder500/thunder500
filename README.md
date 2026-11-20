@@ -6,7 +6,7 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-<img alt="Hi, I'm Ralph. Software Engineer and BSIT graduate from the Philippines. I build AI agents, GoHighLevel automations and web apps with clean, scalable structure. Mostly built with Claude Code, shipped in small pieces." src="assets/intro-light.svg" width="100%">
+<img alt="Skills and tools: BSIT Graduate, AI Agents, Voice AI, OpenAI, GoHighLevel, CRM Pipelines, Automation Workflows, APIs and Webhooks, Full-Stack Apps, TypeScript, Python, Docker, Claude Code." src="assets/intro-light.svg" width="100%">
 </picture>
 <br>
 
