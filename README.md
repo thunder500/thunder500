@@ -1,6 +1,6 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-<img alt="Ralph Benitez - AI agents and automations, built to ship. Full-Stack Developer, AI Agents, GoHighLevel Automation." src="assets/banner-light.svg" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+<img alt="Ralph Benitez. Software Engineer, AI Agents, GoHighLevel Automation. I turn manual business processes into AI-powered systems." src="assets/hero-light.svg" width="100%">
 </picture>
 <br>
 
@@ -11,8 +11,8 @@
 <br>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/talker-dark.svg">
-<img alt="A cartoon of Ralph waving and talking in a pixel speech bubble: Hi, I'm Ralph Benitez. The cartoon one. I build AI agents and GoHighLevel (GHL) systems for businesses. I design structured automation workflows built around how your company runs. Less manual work. Faster follow-ups. Cleaner operations. Ready to automate? Scroll down to connect." src="assets/talker-light.svg" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="assets/chat-dark.svg">
+<img alt="A cartoon of Ralph waving and talking in a chat window: Hi, I'm Ralph Benitez. The cartoon one. I build AI agents and GoHighLevel (GHL) systems for businesses. I design structured automation workflows built around how your company runs. Less manual work. Faster follow-ups. Cleaner operations. Ready to automate? Scroll down to connect." src="assets/chat-light.svg" width="100%">
 </picture>
 <br>
 
