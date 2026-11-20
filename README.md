@@ -5,8 +5,8 @@
 <br>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-<img alt="Skills and tools: BSIT Graduate, AI Agents, Voice AI, OpenAI, GoHighLevel, CRM Pipelines, Automation Workflows, APIs and Webhooks, Full-Stack Apps, TypeScript, Python, Docker, Claude Code." src="assets/skills-light.svg" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="assets/skills-v3-dark.svg">
+<img alt="Skills and tools: BSIT Graduate, AI Agents, Voice AI, OpenAI, GoHighLevel, CRM Pipelines, Automation Workflows, APIs and Webhooks, Full-Stack Apps, TypeScript, Python, Docker, Claude Code, and more..." src="assets/skills-v3-light.svg" width="100%">
 </picture>
 <br>
 
