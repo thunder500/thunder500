@@ -1,16 +1,19 @@
-## Hi there 👋
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+<img alt="Ralph Benitez - AI agents and automations, built to ship. Full-Stack Developer, AI Agents, GoHighLevel Automation." src="assets/banner-light.svg" width="100%">
+</picture>
+<br>
 
-<!--
-**thunder500/thunder500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ralph. I'm a full-stack developer from the Philippines building AI agents, GoHighLevel automations and web apps for clients. I build most of it with AI, mostly Claude Code, and ship it in small pieces.
 
-Here are some ideas to get you started:
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/talker-dark.svg">
+<img alt="A cartoon of Ralph waving and talking in a pixel speech bubble: Hey, I'm Ralph. The cartoon one. I build AI agents, GHL automations and full-stack apps. Mostly with Claude Code, shipped in small pieces. Thanks for stopping by. Scroll down and say hi!" src="assets/talker-light.svg" width="100%">
+</picture>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"When you give up, that's when the game ends."*
+
+### Find me
+
+[Portfolio](https://ralphbenitez101.vercel.app/) · [GitHub](https://github.com/thunder500)
